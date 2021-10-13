@@ -1,5 +1,7 @@
 lab50: true
 lab50:
   files:
+  - !include cs50.h
+  - !include stdio.h
     - !include hello.c
     - !include hello.h
